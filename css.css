@@ -243,14 +243,14 @@ You probably want to change the styling.
 .p4.on span:nth-of-type(3) {
 	opacity: 1;
 	transition: 0s;
-    font-weight: 400; 
+    font-weight: 400;
+    font-family: "brenner mono"; 
 }
 .p4.on span:nth-of-type(4) {
 	opacity: 1;
 	transition: 0s;;
     font-weight: 400;
-    font-size: 2em;
-    font-family: "brenner mono";   
+    font-size: 2em;   
 }
 .p4.on span:nth-of-type(5) {
 	opacity: 1;
@@ -411,6 +411,7 @@ You probably want to change the styling.
 }
 .p9 span {
     opacity: 0;
+    font-family: "benner mono";
 }
 .p9.on span:first-of-type {
     opacity: 1;
@@ -422,8 +423,6 @@ You probably want to change the styling.
     writing-mode: vertical-rl;
     margin-left: 830px;
     margin-top: -2000px;
-    font-family: "benner slab";
-} 
 }
 .p10 span {
 	opacity: 0;
@@ -462,14 +461,11 @@ You probably want to change the styling.
 	transition: 0s 1.2s;
     font-weight: 400;
 }
-
 .p10.on span:nth-of-type(7) {
 	opacity: 1;
 	transition: 0s 1.4s;
     font-weight: 400;
-    ;
 }
-
 .p12 span {
 	opacity: 0;
 }
@@ -483,10 +479,8 @@ You probably want to change the styling.
     writing-mode: vertical-rl;
     margin-left: 830px;
     margin-top: -2000px;
-    font-family: "benner slab";
+    font-family: "benner mono";
 }
-
-
 .p13 span {
 	opacity: 0;
 }
@@ -539,7 +533,7 @@ You probably want to change the styling.
     writing-mode: vertical-rl;
     margin-left: 830px;
     margin-top: -2000px;
-    font-family: "benner slab";
+    font-family: "benner mono";
 } 
 .p16 span {
 	opacity: 0;
@@ -627,7 +621,7 @@ You probably want to change the styling.
     writing-mode: vertical-rl;
     margin-left: 830px;
     margin-top: -2000px;
-    font-family: "benner slab";
+    font-family: "benner mono";
 }
 .p20 span {
 	opacity: 0;
@@ -643,7 +637,7 @@ You probably want to change the styling.
     writing-mode: vertical-rl;
     margin-left: 830px;
     margin-top: -2000px;
-    font-family: "benner slab";
+    font-family: "benner mono";
 }
 .p21 span {
 	opacity: 0;
@@ -722,7 +716,7 @@ You probably want to change the styling.
     writing-mode: vertical-rl;
     margin-left: 830px;
     margin-top: -2000px;
-    font-family: "benner slab";
+    font-family: "benner mono";
 }
 .p24 span {
 	opacity: 0;
@@ -790,7 +784,7 @@ You probably want to change the styling.
     writing-mode: vertical-rl;
     margin-left: 830px;
     margin-top: -2000px;
-    font-family: "benner slab";
+    font-family: "benner mono";
 }
 .p27 span {
 	opacity: 0;
@@ -864,7 +858,7 @@ You probably want to change the styling.
     writing-mode: vertical-rl;
     margin-left: 830px;
     margin-top: -2000px;
-    font-family: "benner slab";
+    font-family: "benner mono";
 }
 .p30 span {
 	opacity: 0;
@@ -873,16 +867,12 @@ You probably want to change the styling.
 	opacity: 1;
 	transition: 0s;
     font-weight: 400;
-    ;
 }
-
 .p30.on span:nth-of-type(2) {
 	opacity: 1;
 	transition: 0s .2s;
     font-weight: 400;
-    ;
 }
-
 .p30.on span:nth-of-type(3) {
 	opacity: 1;
 	transition: 0s .4s;
@@ -916,7 +906,7 @@ You probably want to change the styling.
     writing-mode: vertical-rl;
     margin-left: 830px;
     margin-top: -2000px;
-    font-family: "benner slab";
+    font-family: "benner mono";
 }
 .p32 span {
 	opacity: 0;
@@ -989,7 +979,7 @@ You probably want to change the styling.
     writing-mode: vertical-rl;
     margin-left: 830px;
     margin-top: -2000px;
-    font-family: "benner slab";
+    font-family: "benner mono";
 }
 .p35 span {
 	opacity: 0;
@@ -1062,7 +1052,7 @@ You probably want to change the styling.
     writing-mode: vertical-rl;
     margin-left: 830px;
     margin-top: -2000px;
-    font-family: "benner slab";
+    font-family: "benner mono";
 }
 .p38 span {
 	opacity: 0;
@@ -1326,9 +1316,8 @@ You probably want to change the styling.
     writing-mode: vertical-rl;
     margin-left: 830px;
     margin-top: -2000px;
-    font-family: "benner slab";
+    font-family: "benner mono";
 }   
-} 
 .p50 span {
 	opacity: 0;
 }
@@ -1393,9 +1382,8 @@ You probably want to change the styling.
     writing-mode: vertical-rl;
     margin-left: 830px;
     margin-top: -2000px;
-    font-family: "benner slab";
+    font-family: "benner mono";
 } 
-}
 .p52 span {
 	opacity: 0;
 }
@@ -1502,8 +1490,7 @@ You probably want to change the styling.
     writing-mode: vertical-rl;
     margin-left: 830px;
     margin-top: -2000px;
-    font-family: "benner slab";
-} 
+    font-family: "benner mono"; 
 }
 .p54 span {
 	opacity: 0;
@@ -1601,9 +1588,8 @@ You probably want to change the styling.
     writing-mode: vertical-rl;
     margin-left: 830px;
     margin-top: -2000px;
-    font-family: "benner slab";
+    font-family: "benner mono";
 }   
-}
 .p57 span {
 	opacity: 0;
 }
@@ -1674,7 +1660,7 @@ You probably want to change the styling.
     writing-mode: vertical-rl;
     margin-left: 830px;
     margin-top: -2000px;
-    font-family: "benner slab";
+    font-family: "benner mono";
 }
 .p61 span {
 	opacity: 0;
@@ -1746,8 +1732,7 @@ You probably want to change the styling.
     writing-mode: vertical-rl;
     margin-left: 830px;
     margin-top: -2000px;
-    font-family: "benner slab";
-}
+    font-family: "benner mono";
 }
 .p63 span {
 	opacity: 0;
@@ -1819,8 +1804,7 @@ You probably want to change the styling.
     writing-mode: vertical-rl;
     margin-left: 830px;
     margin-top: -2000px;
-    font-family: "benner slab";
-}
+    font-family: "benner mono";
 }
 .p65 span {
     opacity: 0;
@@ -1890,7 +1874,7 @@ You probably want to change the styling.
     writing-mode: vertical-rl;
     margin-left: 830px;
     margin-top: -2000px;
-    font-family: "benner slab";
+    font-family: "benner mono";
 }
 .p69 span {
     opacity: 0;
@@ -2252,33 +2236,5 @@ You probably want to change the styling.
     }
     100% {
         transform: rotate(0deg);
-}
-
-sound2 .dot2 {
-    height: 150px;
-    width: 150px;
-    background-color: darkgrey;
-    border-radius: 50%;
-    filter: blur(20px);
-    position: relative;
-    z-index: 1;
-    margin-left: 1350px;
-    margin-top: -5px;
-   
-    animation: stip2 .4s 1 forwards;
-   }
-@keyframes stip2 {
-   0%{
-       opacity: 1;
-   }
-   
-   20%{
-       opacity: 0;
-   }
-   40%{
-       opacity: 1;
-   }
-   100%{
-       opacity: 0;  
-   }
+    }
 }
