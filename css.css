@@ -38,9 +38,11 @@ Feel free to adjust the defaults to your needs.
 	left: 0;
     right: 0;
     margin-top: auto;
-    top: 540px;
+    margin-bottom: auto;
+    top: 500px;
     text-align: center;
     color:white;
+    z-index: 5;
 }  
 #closed-captions .on {
 	opacity: 1;
@@ -71,10 +73,9 @@ iframe{
     margin-left: 126px;
     margin-right: auto;
     align-items: center;
+    z-index: 3;
     /* box-shadow: 1px 1px 30px 10px rgb(206, 253, 253); */
 } 
-
-
 
 
 /* **********************************************
@@ -243,14 +244,14 @@ You probably want to change the styling.
 .p4.on span:nth-of-type(3) {
 	opacity: 1;
 	transition: 0s;
-    font-weight: 400;
-    font-family: "brenner mono"; 
+    font-weight: 400; 
 }
 .p4.on span:nth-of-type(4) {
 	opacity: 1;
 	transition: 0s;;
     font-weight: 400;
-    font-size: 2em;   
+    font-size: 2em; 
+    font-family: "brenner mono";  
 }
 .p4.on span:nth-of-type(5) {
 	opacity: 1;
@@ -421,8 +422,9 @@ You probably want to change the styling.
     color: rgb(255, 255, 255);
     text-shadow: 3px 2px 2px red; 
     writing-mode: vertical-rl;
-    margin-left: 830px;
+    margin-left: 800px;
     margin-top: -2000px;
+    font-family: "brenner mono";
 }
 .p10 span {
 	opacity: 0;
@@ -467,7 +469,8 @@ You probably want to change the styling.
     font-weight: 400;
 }
 .p12 span {
-	opacity: 0;
+    opacity: 0;
+    font-family: "benner mono";
 }
 .p12.on span:first-of-type {
     opacity: 1;
@@ -477,7 +480,7 @@ You probably want to change the styling.
     color: rgb(255, 255, 255);
     text-shadow: 3px 2px 2px red; 
     writing-mode: vertical-rl;
-    margin-left: 830px;
+    margin-left: 800px;
     margin-top: -2000px;
     font-family: "benner mono";
 }
@@ -2229,12 +2232,55 @@ You probably want to change the styling.
 
 @keyframes buzz {
     0% {
-        transform: rotate(0.5deg);
-    }
+        transform: rotate(0.8deg);}
     50% {
-        transform: rotate(-0.5deg);
-    }
+        transform: rotate(-0.8deg);}
     100% {
-        transform: rotate(0deg);
-    }
+        transform: rotate(0deg);}
 }
+.sound2 div {
+    width: 2px;
+    height: 1000px;
+    background: red;
+    position: relative;
+    animation: sirene 4s;
+    box-shadow: 1px 1px 30px 10px rgb(255, 0, 0);
+    z-index: 0;
+ }
+@keyframes sirene {
+    0%   {left: 0px;}
+    50%  {left: 1260px;}
+    100% {left: 0px;
+    opacity: 0;}
+ }
+.sound3 div {
+    width: 1000px;
+    height: 420px;
+    background: #ffffff;
+    position: relative;
+    top: 70px;
+    left: 135px;
+    animation: piep 2s;
+    box-shadow: 2px 2px 30px 20px rgb(156, 207, 255);
+    animation-iteration-count: 2;
+}
+@keyframes piep {
+    0%   {opacity: 0;}
+    10%  {opacity: 1;}
+    50%  {opacity: 50;}
+    100% {opacity: 100;}
+}
+.sound4 iframe {
+    animation: buzz 0.08s forwards;
+    animation-iteration-count: 10;
+}
+@keyframes buzz {
+    0% {
+        transform: rotate(0.8deg);}
+    50% {
+        transform: rotate(-0.8deg);}
+    100% {
+        transform: rotate(0deg);}
+}
+
+
