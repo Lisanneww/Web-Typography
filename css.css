@@ -2252,11 +2252,14 @@ You probably want to change the styling.
 }
 @keyframes buzz {
     0% {
-        transform: rotate(0.8deg);}
+        transform: rotate(0.8deg);
+    }
     50% {
-        transform: rotate(-0.8deg);}
+        transform: rotate(-0.8deg);
+    }
     100% {
-        transform: rotate(0deg);}
+        transform: rotate(0deg);
+    }
 }
 .sound2 iframe{
     box-shadow: 2px 2px 30px 10px rgb(255, 0, 0);
@@ -2267,6 +2270,9 @@ You probably want to change the styling.
     0% {opacity: 0;}
     50% { opacity: 1;}
     100% {opacity: 0;}
+}
+.sound3 iframe {
+    box-shadow: none;
 }
 .sound4 iframe {
     animation: buzzz 0.08s forwards;
@@ -2328,4 +2334,7 @@ You probably want to change the styling.
     100% {
         transform: rotate(0deg);
     }
+}
+.sound9 iframe {
+    box-shadow: none;
 }
