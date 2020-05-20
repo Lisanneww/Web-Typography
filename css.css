@@ -56,6 +56,16 @@ Feel free to adjust the defaults to your needs.
     font-family: "brenner mono";
     color: white;
     text-shadow: 1px 1px rgb(0, 26, 255);
+    position: absolute;
+	margin-left: auto;
+	margin-right: auto;
+	left: 0;
+    right: 0;
+    margin-top: auto;
+    margin-bottom: auto;
+    top: 500px;
+    text-align: center;
+    z-index: 5;
 }
 .voice2 {
     font-style: italic;
@@ -63,6 +73,16 @@ Feel free to adjust the defaults to your needs.
     font-size: 1.2em;
     color: white;
     text-shadow: 1px 1px rgb(255, 0, 21);
+    position: absolute;
+	margin-left: auto;
+	margin-right: auto;
+	left: 0;
+    right: 0;
+    margin-top: auto;
+    margin-bottom: auto;
+    top: 500px;
+    text-align: center;
+    z-index: 5;
 }
 iframe{
 	position: absolute;
@@ -194,6 +214,7 @@ You probably want to change the styling.
 .p3 span {
     opacity: 0;
     font-size: 1.3em;
+    z-index: 5;
 }
 .p3.on span:first-of-type {
 	opacity: 1;
@@ -228,12 +249,12 @@ You probably want to change the styling.
 .p4 span {
     opacity: 0;
     font-size: 1.3em;
+    z-index: 5;
 }
 .p4.on span:first-of-type {
 	opacity: 1;
 	transition: 0s;
     font-weight: 400;   
-    
 }
 .p4.on span:nth-of-type(2) {
 	opacity: 1;
@@ -250,8 +271,8 @@ You probably want to change the styling.
 	opacity: 1;
 	transition: 0s;;
     font-weight: 400;
-    font-size: 2em; 
-    font-family: "brenner mono";  
+    font-size: 2em;
+    font-family: "brenner mono";   
 }
 .p4.on span:nth-of-type(5) {
 	opacity: 1;
@@ -417,13 +438,14 @@ You probably want to change the styling.
 .p9.on span:first-of-type {
     opacity: 1;
     font-weight: 400em;
-    font-size: 130px;
+    font-size: 80px;
     text-transform: uppercase;
     color: rgb(255, 255, 255);
     text-shadow: 3px 2px 2px red; 
-    writing-mode: vertical-rl;
-    margin-left: 800px;
-    margin-top: -2000px;
+    margin-left: auto;
+    margin-top: auto;
+    top: 100px;
+    right: 400px;
     font-family: "brenner mono";
 }
 .p10 span {
@@ -475,14 +497,15 @@ You probably want to change the styling.
 .p12.on span:first-of-type {
     opacity: 1;
     font-weight: 400em;
-    font-size: 130px;
+    font-size: 80px;
     text-transform: uppercase;
     color: rgb(255, 255, 255);
     text-shadow: 3px 2px 2px red; 
-    writing-mode: vertical-rl;
-    margin-left: 800px;
-    margin-top: -2000px;
-    font-family: "benner mono";
+    margin-left: auto;
+    margin-top: auto;
+    top: 100px;
+    right: 400px;
+    font-family: "brenner mono";
 }
 .p13 span {
 	opacity: 0;
@@ -529,15 +552,16 @@ You probably want to change the styling.
 .p15.on span:first-of-type {
     opacity: 1;
     font-weight: 400em;
-    font-size: 130px;
+    font-size: 80px;
     text-transform: uppercase;
     color: rgb(255, 255, 255);
     text-shadow: 3px 2px 2px red; 
-    writing-mode: vertical-rl;
-    margin-left: 830px;
-    margin-top: -2000px;
-    font-family: "benner mono";
-} 
+    margin-left: auto;
+    margin-top: auto;
+    top: 100px;
+    right: 400px;
+    font-family: "brenner mono";
+}
 .p16 span {
 	opacity: 0;
 }
@@ -617,19 +641,19 @@ You probably want to change the styling.
 .p18.on span:first-of-type {
     opacity: 1;
     font-weight: 400em;
-    font-size: 130px;
+    font-size: 80px;
     text-transform: uppercase;
     color: rgb(255, 255, 255);
     text-shadow: 3px 2px 2px red; 
-    writing-mode: vertical-rl;
-    margin-left: 830px;
-    margin-top: -2000px;
-    font-family: "benner mono";
+    margin-left: auto;
+    margin-top: auto;
+    top: 100px;
+    right: 400px;
+    font-family: "brenner mono";
 }
 .p20 span {
 	opacity: 0;
 }
-
 .p20.on span:first-of-type {
     opacity: 1;
     font-weight: 400em;
@@ -637,10 +661,11 @@ You probably want to change the styling.
     text-transform: uppercase;
     color: rgb(255, 255, 255);
     text-shadow: 3px 2px 2px red; 
-    writing-mode: vertical-rl;
-    margin-left: 830px;
-    margin-top: -2000px;
-    font-family: "benner mono";
+    margin-left: auto;
+    margin-top: auto;
+    top: 100px;
+    right: 400px;
+    font-family: "brenner condensed";
 }
 .p21 span {
 	opacity: 0;
@@ -716,10 +741,11 @@ You probably want to change the styling.
     text-transform: uppercase;
     color: rgb(255, 255, 255);
     text-shadow: 3px 2px 2px red; 
-    writing-mode: vertical-rl;
-    margin-left: 830px;
-    margin-top: -2000px;
-    font-family: "benner mono";
+    margin-left: auto;
+    margin-top: auto;
+    top: 100px;
+    right: 400px;
+    font-family: "brenner condensed";
 }
 .p24 span {
 	opacity: 0;
@@ -784,10 +810,11 @@ You probably want to change the styling.
     text-transform: uppercase;
     color: rgb(255, 255, 255);
     text-shadow: 3px 2px 2px red; 
-    writing-mode: vertical-rl;
-    margin-left: 830px;
-    margin-top: -2000px;
-    font-family: "benner mono";
+    margin-left: auto;
+    margin-top: auto;
+    top: 100px;
+    right: 400px;
+    font-family: "brenner condensed";
 }
 .p27 span {
 	opacity: 0;
@@ -811,38 +838,27 @@ You probably want to change the styling.
 	opacity: 1;
 	transition: 0s .6s;
     font-weight: 400;
-    ;
 }
-
 .p27.on span:nth-of-type(5) {
 	opacity: 1;
 	transition: 0s .7s;
     font-weight: 400;
-    ;
 }
-
 .p27.on span:nth-of-type(6) {
 	opacity: 1;
 	transition: 0s .8s;
     font-weight: 400;
-    ;
 }
-
 .p27.on span:nth-of-type(7) {
 	opacity: 1;
 	transition: 0s 1s;
     font-weight: 400;
-    ;
 }
-
-
 .p27.on span:nth-of-type(8) {
 	opacity: 1;
 	transition: 0s 1.2s;
     font-weight: 400;
-    ;
 }
-
 .p27.on span:nth-of-type(9) {
 	opacity: 1;
 	transition: 0s 1.4s;
@@ -858,10 +874,11 @@ You probably want to change the styling.
     text-transform: uppercase;
     color: rgb(255, 255, 255);
     text-shadow: 3px 2px 2px red; 
-    writing-mode: vertical-rl;
-    margin-left: 830px;
-    margin-top: -2000px;
-    font-family: "benner mono";
+    margin-left: auto;
+    margin-top: auto;
+    top: 100px;
+    right: 400px;
+    font-family: "brenner condensed";
 }
 .p30 span {
 	opacity: 0;
@@ -906,10 +923,11 @@ You probably want to change the styling.
     text-transform: uppercase;
     color: rgb(255, 255, 255);
     text-shadow: 3px 2px 2px red; 
-    writing-mode: vertical-rl;
-    margin-left: 830px;
-    margin-top: -2000px;
-    font-family: "benner mono";
+    margin-left: auto;
+    margin-top: auto;
+    top: 100px;
+    right: 400px;
+    font-family: "brenner condensed";
 }
 .p32 span {
 	opacity: 0;
@@ -979,10 +997,11 @@ You probably want to change the styling.
     text-transform: uppercase;
     color: rgb(255, 255, 255);
     text-shadow: 3px 2px 2px red; 
-    writing-mode: vertical-rl;
-    margin-left: 830px;
-    margin-top: -2000px;
-    font-family: "benner mono";
+    margin-left: auto;
+    margin-top: auto;
+    top: 100px;
+    right: 400px;
+    font-family: "brenner condensed";
 }
 .p35 span {
 	opacity: 0;
@@ -1052,10 +1071,11 @@ You probably want to change the styling.
     text-transform: uppercase;
     color: rgb(255, 255, 255);
     text-shadow: 3px 2px 2px red; 
-    writing-mode: vertical-rl;
-    margin-left: 830px;
-    margin-top: -2000px;
-    font-family: "benner mono";
+    margin-left: auto;
+    margin-top: auto;
+    top: 100px;
+    right: 400px;
+    font-family: "brenner condensed";
 }
 .p38 span {
 	opacity: 0;
@@ -2226,10 +2246,10 @@ You probably want to change the styling.
 }
 
 .sound1 iframe {
+    box-shadow: 1px 1px 20px 1px rgb(156, 207, 255);
     animation: buzz 0.08s forwards;
     animation-iteration-count: 10;
 }
-
 @keyframes buzz {
     0% {
         transform: rotate(0.8deg);}
@@ -2238,39 +2258,40 @@ You probably want to change the styling.
     100% {
         transform: rotate(0deg);}
 }
-.sound2 div {
-    width: 2px;
-    height: 1000px;
-    background: red;
-    position: relative;
-    animation: sirene 4s;
-    box-shadow: 1px 1px 30px 10px rgb(255, 0, 0);
-    z-index: 0;
- }
-@keyframes sirene {
-    0%   {left: 0px;}
-    50%  {left: 1260px;}
-    100% {left: 0px;
-    opacity: 0;}
- }
-.sound3 div {
-    width: 1000px;
-    height: 420px;
-    background: #ffffff;
-    position: relative;
-    top: 70px;
-    left: 135px;
-    animation: piep 2s;
-    box-shadow: 2px 2px 30px 20px rgb(156, 207, 255);
-    animation-iteration-count: 2;
+.sound2 iframe{
+    box-shadow: 2px 2px 30px 10px rgb(255, 0, 0);
+    animation: light 0.08s ease-out;
+    animation-iteration-count: 5;
 }
-@keyframes piep {
-    0%   {opacity: 0;}
-    10%  {opacity: 1;}
-    50%  {opacity: 50;}
-    100% {opacity: 100;}
+@keyframes light {
+    0% {opacity: 0;}
+    50% { opacity: 1;}
+    100% {opacity: 0;}
 }
 .sound4 iframe {
+    animation: buzzz 0.08s forwards;
+    animation-iteration-count: 10;
+}
+@keyframes buzzz {
+    0% {
+        transform: rotate(0.8deg);}
+    50% {
+        transform: rotate(-0.8deg);}
+    100% {
+        transform: rotate(0deg);}
+}
+.sound5 iframe{
+    box-shadow: 2px 2px 30px 10px rgb(156, 207, 255);
+    animation: light 0.08s ease-out;
+    animation-iteration-count: 5;
+}
+@keyframes light {
+    0% {opacity: 0;}
+    50% { opacity: 1;}
+    100% {opacity: 0;}
+}
+.sound6 iframe {
+    box-shadow: 1px 1px 20px 1px rgb(156, 207, 255);
     animation: buzz 0.08s forwards;
     animation-iteration-count: 10;
 }
@@ -2282,5 +2303,29 @@ You probably want to change the styling.
     100% {
         transform: rotate(0deg);}
 }
-
-
+.sound7 iframe {
+    animation: buzzz 0.08s forwards;
+    animation-iteration-count: 10;
+}
+@keyframes buzzz {
+    0% {
+        transform: rotate(0.8deg);}
+    50% {
+        transform: rotate(-0.8deg);}
+    100% {
+        transform: rotate(0deg);}
+}
+.sound8 iframe {
+    box-shadow: 1px 1px 20px 1px rgb(156, 207, 255);
+    animation: buzz 0.08s forwards;
+    animation-iteration-count: 10;
+}
+@keyframes buzz {
+    0% {
+        transform: rotate(0.8deg);}
+    50% {
+        transform: rotate(-0.8deg);}
+    100% {
+        transform: rotate(0deg);
+    }
+}
