@@ -665,7 +665,7 @@ You probably want to change the styling.
     margin-top: auto;
     top: 100px;
     right: 400px;
-    font-family: "brenner condensed";
+    font-family: "brenner mono";
 }
 .p21 span {
 	opacity: 0;
@@ -745,7 +745,7 @@ You probably want to change the styling.
     margin-top: auto;
     top: 100px;
     right: 400px;
-    font-family: "brenner condensed";
+    font-family: "brenner mono";
 }
 .p24 span {
 	opacity: 0;
@@ -814,7 +814,7 @@ You probably want to change the styling.
     margin-top: auto;
     top: 100px;
     right: 400px;
-    font-family: "brenner condensed";
+    font-family: "brenner mono";
 }
 .p27 span {
 	opacity: 0;
@@ -878,7 +878,7 @@ You probably want to change the styling.
     margin-top: auto;
     top: 100px;
     right: 400px;
-    font-family: "brenner condensed";
+    font-family: "brenner mono";
 }
 .p30 span {
 	opacity: 0;
@@ -927,7 +927,7 @@ You probably want to change the styling.
     margin-top: auto;
     top: 100px;
     right: 400px;
-    font-family: "brenner condensed";
+    font-family: "brenner mono";
 }
 .p32 span {
 	opacity: 0;
@@ -1001,7 +1001,7 @@ You probably want to change the styling.
     margin-top: auto;
     top: 100px;
     right: 400px;
-    font-family: "brenner condensed";
+    font-family: "brenner mono";
 }
 .p35 span {
 	opacity: 0;
@@ -1075,7 +1075,7 @@ You probably want to change the styling.
     margin-top: auto;
     top: 100px;
     right: 400px;
-    font-family: "brenner condensed";
+    font-family: "brenner mono";
 }
 .p38 span {
 	opacity: 0;
@@ -1332,15 +1332,16 @@ You probably want to change the styling.
 .p49.on span:first-of-type {
     opacity: 1;
     font-weight: 400em;
-    font-size: 130px;
+    font-size: 80px;
     text-transform: uppercase;
     color: rgb(255, 255, 255);
     text-shadow: 3px 2px 2px red; 
-    writing-mode: vertical-rl;
-    margin-left: 830px;
-    margin-top: -2000px;
-    font-family: "benner mono";
-}   
+    margin-left: auto;
+    margin-top: auto;
+    top: 100px;
+    right: 400px;
+    font-family: "brenner mono";
+}  
 .p50 span {
 	opacity: 0;
 }
@@ -1398,15 +1399,16 @@ You probably want to change the styling.
 .p51.on span:first-of-type {
     opacity: 1;
     font-weight: 400em;
-    font-size: 130px;
+    font-size: 80px;
     text-transform: uppercase;
     color: rgb(255, 255, 255);
     text-shadow: 3px 2px 2px red; 
-    writing-mode: vertical-rl;
-    margin-left: 830px;
-    margin-top: -2000px;
-    font-family: "benner mono";
-} 
+    margin-left: auto;
+    margin-top: auto;
+    top: 100px;
+    right: 400px;
+    font-family: "brenner mono";
+}
 .p52 span {
 	opacity: 0;
 }
@@ -1506,14 +1508,15 @@ You probably want to change the styling.
 .p53.on span:first-of-type {
     opacity: 1;
     font-weight: 400em;
-    font-size: 130px;
+    font-size: 80px;
     text-transform: uppercase;
     color: rgb(255, 255, 255);
     text-shadow: 3px 2px 2px red; 
-    writing-mode: vertical-rl;
-    margin-left: 830px;
-    margin-top: -2000px;
-    font-family: "benner mono"; 
+    margin-left: auto;
+    margin-top: auto;
+    top: 100px;
+    right: 400px;
+    font-family: "brenner mono";
 }
 .p54 span {
 	opacity: 0;
@@ -1608,11 +1611,12 @@ You probably want to change the styling.
     text-transform: uppercase;
     color: rgb(255, 255, 255);
     text-shadow: 3px 2px 2px red; 
-    writing-mode: vertical-rl;
-    margin-left: 830px;
-    margin-top: -2000px;
-    font-family: "benner mono";
-}   
+    margin-left: auto;
+    margin-top: auto;
+    top: 100px;
+    right: 400px;
+    font-family: "brenner mono";
+}
 .p57 span {
 	opacity: 0;
 }
@@ -1680,10 +1684,11 @@ You probably want to change the styling.
     text-transform: uppercase;
     color: rgb(255, 255, 255);
     text-shadow: 3px 2px 2px red; 
-    writing-mode: vertical-rl;
-    margin-left: 830px;
-    margin-top: -2000px;
-    font-family: "benner mono";
+    margin-left: auto;
+    margin-top: auto;
+    top: 100px;
+    right: 400px;
+    font-family: "brenner mono";
 }
 .p61 span {
 	opacity: 0;
@@ -1752,10 +1757,11 @@ You probably want to change the styling.
     text-transform: uppercase;
     color: rgb(255, 255, 255);
     text-shadow: 3px 2px 2px red; 
-    writing-mode: vertical-rl;
-    margin-left: 830px;
-    margin-top: -2000px;
-    font-family: "benner mono";
+    margin-left: auto;
+    margin-top: auto;
+    top: 100px;
+    right: 400px;
+    font-family: "brenner mono";
 }
 .p63 span {
 	opacity: 0;
@@ -1824,10 +1830,11 @@ You probably want to change the styling.
     text-transform: uppercase;
     color: rgb(255, 255, 255);
     text-shadow: 3px 2px 2px red; 
-    writing-mode: vertical-rl;
-    margin-left: 830px;
-    margin-top: -2000px;
-    font-family: "benner mono";
+    margin-left: auto;
+    margin-top: auto;
+    top: 100px;
+    right: 400px;
+    font-family: "brenner mono";
 }
 .p65 span {
     opacity: 0;
@@ -1890,14 +1897,15 @@ You probably want to change the styling.
 .p68.on span:first-of-type {
     opacity: 1;
     font-weight: 400em;
-    font-size: 130px;
+    font-size: 80px;
     text-transform: uppercase;
     color: rgb(255, 255, 255);
     text-shadow: 3px 2px 2px red; 
-    writing-mode: vertical-rl;
-    margin-left: 830px;
-    margin-top: -2000px;
-    font-family: "benner mono";
+    margin-left: auto;
+    margin-top: auto;
+    top: 100px;
+    right: 400px;
+    font-family: "brenner mono";
 }
 .p69 span {
     opacity: 0;
