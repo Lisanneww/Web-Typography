@@ -2275,6 +2275,7 @@ You probably want to change the styling.
     box-shadow: none;
 }
 .sound4 iframe {
+    box-shadow: 1px 1px 20px 1px rgb(245, 255, 156);
     animation: buzzz 0.08s forwards;
     animation-iteration-count: 10;
 }
@@ -2288,7 +2289,7 @@ You probably want to change the styling.
 }
 .sound5 iframe{
     box-shadow: 2px 2px 30px 10px rgb(156, 207, 255);
-    animation: light 0.08s ease-out;
+    animation: light 0.08s ease-in-out;
     animation-iteration-count: 5;
 }
 @keyframes light {
@@ -2297,7 +2298,7 @@ You probably want to change the styling.
     100% {opacity: 0;}
 }
 .sound6 iframe {
-    box-shadow: 1px 1px 20px 1px rgb(156, 207, 255);
+    box-shadow: 1px 1px 20px 1px rgb(245, 255, 156);
     animation: buzz 0.08s forwards;
     animation-iteration-count: 10;
 }
