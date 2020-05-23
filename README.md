@@ -2,7 +2,7 @@
 
 # Intro
 
-Dit vak was een enorme uitdaging voor mij aangezien ik nog niet met code gewerkt hebt. Vandaar dat ik ook veel geleerd heb. Naar mijn ervaring snap ik nu de basis van Html en CSS. Dit heeft mij veel moeite gekost en ik heb hier ook heel veel tijd ingestoken. Ik heb mij veel gefrustreerd tijdens dit vak, maar dit was niet voor niets, want ik ben erg tevreden met het eindresultaat. Aangezien ik zoveel tijd heb gestoken in het begrijpen van de code, heb ik mij minder kunnen verdiepen in de wensen van de doelgroep. Zo vond ik het lastig om te bepalen hoe ik geluid kan visualiseren, behalve door licht of trillingen.
+Dit vak was een enorme uitdaging voor mij aangezien ik nog niet met code gewerkt hebt. Vandaar dat ik ook veel geleerd heb. Naar mijn ervaring snap ik nu de basis van Html en CSS. Dit heeft mij veel moeite gekost en ik heb hier ook heel veel tijd ingestoken. Ik heb mij veel gefrustreerd tijdens dit vak, maar dit was niet voor niets, want ik ben erg tevreden met het eindresultaat. Aangezien ik zoveel tijd heb gestoken in het begrijpen van de code, heb ik mij minder kunnen verdiepen in de wensen van de doelgroep. Zo vond ik het lastig om te bepalen hoe ik geluid kan visualiseren, behalve door licht of trillingen. Oftewel, ik vond dat ik te weinig tijd had om te kunnen creeëren wat ik zou willen.
 
 ## Link naar fragment
 
@@ -22,13 +22,10 @@ Ik heb ervoor gekozen om de video in het midden te plaatsen met een zwarte achte
 
 ## Principes
 
-```python
-import foobar
-
-foobar.pluralize('word') # returns 'words'
-foobar.pluralize('goose') # returns 'geese'
-foobar.singularize('phenomena') # returns 'phenomenon'
-```
+study situation:
+ignore conventions:
+prioritse identity:
+add nonsense:
 
 ## User tests
 
