@@ -6,7 +6,7 @@ Dit vak was een enorme uitdaging voor mij aangezien ik nog niet met code gewerkt
 
 ## Link naar fragment
 
-https://lisanneww.github.io/web-typography20/
+https://lisanneww.github.io/web-typography/
 
 ## Typograghie en kleur
 
