@@ -2039,6 +2039,7 @@ You probably want to change the styling.
 }
 .p74 span {
     opacity: 0;
+    font-size: 1.3em;
 }
 .p74.on span:first-of-type {
 	opacity: 1;
