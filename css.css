@@ -19,7 +19,11 @@ textarea{
 
 body {
     background-color: black;
+    animation: normal;
 }  
+
+
+
 
 /* **********************************************
 Basic mechanics
@@ -1618,7 +1622,7 @@ You probably want to change the styling.
     font-family: "brenner condensed";
 }
 .p57 span {
-	opacity: 0;
+    opacity: 0;
 }
 .p57.on span:first-of-type {
 	opacity: 1;
@@ -2348,3 +2352,38 @@ You probably want to change the styling.
 .sound9 iframe {
     box-shadow: none;
 }
+
+.sound10 {
+    animation-name: animationlight;
+    animation-duration: 42s;
+    animation-timing-function: ease-in;   
+    animation-play-state: running;
+}
+
+@keyframes animationlight {
+    50.0%  {background-color:rgb(255, 255, 255);}
+}
+
+.sound11 iframe{
+    animation: scale 7s ease-in-out infinite alternate;
+    -webkit-animation: scale 7s ease-in-out infinite alternate;
+}
+@keyframes scale {
+    0% {
+        transform: scale(1.0);
+        -webkit-transform: scale(1.0);
+    }
+    50% {
+        transform: scale(0.8);
+        -webkit-transform: scale(0.8);
+    }
+    100% {
+        transform: scale(1.2);
+        -webkit-transform: scale(1.2);
+    }
+}
+
+.sound12 iframe{
+    animation: none;
+}
+
