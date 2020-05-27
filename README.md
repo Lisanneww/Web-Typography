@@ -17,18 +17,18 @@ Zo is de stem van de examinator heel monotoon. Je ziet ook niet hoe de persoon m
 De stem van Joe is ten opzichte van de examinator veel menselijker en warmer. Vandaar heb ik gekozen voor Brenner serif, omdat het sierlijker overkomt. Ook is er vanwege de warmere stem een rode schaduw geplaatst achter de witte letters. Bij Joe komt de gehele zin wel in een keer in beeld omdat hij vloeiender praat. 
 
 Bij deze twee stemmen heb ik vooral ingespeeld tussen het contrast van strak, sierlijk, koud en warm.
-Ik heb ervoor gekozen om de video in het midden te plaatsen met een zwarte achtergrond, zodat het beeld van de video goed te zien blijft. Om de geluiden in de video te visualiseren heb ik gebruik gemaakt van kleur en trillingen. Zo representeert de kleur rood een sirene, de kleur geel voor een piep en de kleur blauw voor een flickering. 
+Ik heb ervoor gekozen om de video in het midden te plaatsen met een zwarte achtergrond, zodat het beeld van de video goed te zien blijft. Om de geluiden in de video te visualiseren heb ik gebruik gemaakt van kleur en trillingen. Zo representeert de kleur rood een sirene, de kleur geel voor een piep en de kleur blauw voor een flickering. Bovendien heb ik een piep die steeds sterker wordt aangeduid door middel van de achtergrond van zwart naar wit en dan weer zwart te laten gaan. Verder heb ik een zwevige achtergrond muziek gevisualiseerd door het beeld van groote te veranderen.
 
 
 ## Exclusive design principes
 
 Study situation: naast het interview met de user, heb ik ook onderzoek gedaan naar de functie van bepaalde geluiden. Wat betekenen ze en wat voor reactie leveren geluiden. Geluiden versterken situatie door een gevoel over te brengen of een sfeer te creeëren. De bedoeling is nu om een gevoel over te brengen door middel van kijken. Veel of weinig licht, grote of kleine bewegingen, afbeeldingen of extra tekst.
 
-Ignore conventions: door een de vermindering van een zintuig is het negeren van conventies misschien wel beter. Niet simpel, maar misschien juist extravagant. Oftewel extra visuele toevoegingen zijn nu wel van toepassing.
+Ignore conventions: door een de vermindering van een zintuig is het negeren van conventies misschien wel beter. Niet simpel, maar misschien juist extravagant. Oftewel extra visuele toevoegingen zijn nu wel van toepassing. Zo heb ik kleur toegevoegd om een bepaald soort geluid over te brengen.
 
-Prioritse identity: niet alles werkt voor iedereen. Extra toevoegingen zijn misschien een afleiding. De user houdt wel van minimalistisch. Vandaar heb ik de wensen van de user voorop gesteld.
+Prioritse identity: niet alles werkt voor iedereen. Extra toevoegingen zijn misschien een afleiding. De user houdt wel van minimalistisch. Vandaar heb ik de wensen van de user voorop gesteld. Dus ik heb het minimalistisch gehouden en heb alleen met beweging en kleur gewerkt.
 
-Add nonsense: het experimenteren leverde informatie op wat wel en niet werkt voor de user.
+Add nonsense: Ik heb op muziek het scherm van grote laten verandere wat misschien nonsense is.
 
 ## User tests
 
